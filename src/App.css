@@ -1,0 +1,8 @@
+.header{
+color: rgba(39, 39, 202, 0.712);
+background-color: blue;
+}
+.container {
+    display: flex; /* or inline-flex */
+  }
+  
