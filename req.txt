@@ -1,0 +1,12 @@
+Requirments:
+
+npm install axious
+npm install stream-http https-browserify util browserify-zlib stream-browserify
+npm install antd
+npm install react-router
+npm install react-router-dom
+
+
+API
+https://disease.sh/v3/covid-19/all
+https://disease.sh/v3/covid-19/countries
